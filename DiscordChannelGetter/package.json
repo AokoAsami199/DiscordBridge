@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "fastify": "^3.24.0"
+  },
+  "name": "discordchannelgetter",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "i",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AokoAsami199",
+  "license": "ISC"
+}
