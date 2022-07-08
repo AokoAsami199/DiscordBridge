@@ -60,7 +60,7 @@ function createDefaultEmbed(author, description) {
 }
 
 setInterval(() => {
-    network.httpGet(`http://127.0.0.1:3000/getLatestMessage`,
+    network.httpGet(`http://127.0.0.1:3000/getLatestMessage)`,
     function (status, result) {
         if(status !== 200){
             return;
